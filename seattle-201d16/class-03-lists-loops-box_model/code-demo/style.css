@@ -1,0 +1,55 @@
+ol li {
+    padding: 10px 0 0 0;
+    background-color: #00FF00;
+    border: 5px solid black;
+    margin-bottom: 20px;
+    width: 100px;
+    box-sizing: border-box;
+}
+
+ol {
+  background-color: pink;
+}
+
+ul {
+    /*border-width: 20px; */
+    /* border-color: black; */
+    /* border-style: dotted; */
+    border: 5px solid blue;
+    /* border-width: 5px 20px 10px; */
+    /* border-left: 2px solid red; */
+    /* border-bottom: 0; */
+}
+
+dl {
+    width: 200px;
+    margin: 20px auto;
+}
+
+section {
+  width: 500px;
+}
+
+p {
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+
+span {
+    margin: 20px;
+    margin-bottom: 500px;
+    padding: 20px;
+    border: 10px solid black;
+    visibility: hidden;
+}
+
+.inlineblock {
+  display: inline-block
+}
+
+div {
+  width: 250px;
+  height: 250px;
+  background-color: black;
+}

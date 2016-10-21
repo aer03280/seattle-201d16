@@ -1,0 +1,33 @@
+/** {
+  border: thin solid red;
+}*/
+
+nav li {
+  list-style-type: none;
+  margin-right: 20px;
+  display: inline;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+#four-blocks {
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+#four-blocks article {
+  width: 24%;
+  box-sizing: border-box;
+  float: left;
+  background-color: gray;
+  height: 300px;
+  margin-right: 0.5%;
+  margin-left: 0.5%;
+}
+
+#content {
+  height: 400px;
+  background-color: pink;
+}

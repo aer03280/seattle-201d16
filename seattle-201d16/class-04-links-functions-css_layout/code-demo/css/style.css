@@ -1,0 +1,50 @@
+#three-blocks {
+  margin: 0 auto;
+}
+#three-blocks article {
+  display: inline-block;
+  width: 33%;
+  box-sizing: border-box;
+  border: thin solid red;
+  background-color: #cdcdcd;
+}
+
+.relative {
+  position: relative;
+  left: 50px;
+}
+.absolute {
+  position: absolute;
+  bottom: 88px;
+}
+.fixed {
+  position: fixed;
+  top: 30px;
+}
+.right {
+  float: right;
+  width: 25%;
+  border: thin solid green;
+  background-color: blue;
+  color: white;
+  clear: right;
+}
+
+nav li {
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+}
+.clearfix {
+  clear: both;
+}
+
+span {
+  clear: both;
+  color: red;
+  float: right;
+}
+
+main {
+  width: 50%;
+}
