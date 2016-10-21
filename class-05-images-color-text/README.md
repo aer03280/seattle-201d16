@@ -3,19 +3,13 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Friday Lecture
 
-#### We will start today by going over Quiz 1, which was due last night.
-
-#### Reminder: Quiz 2 is due at 11:59pm tonight.
-
-#### Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
-
 - Announcements
 	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 	- **Reminder:** Weekly surveys will go out to students in email today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
 
 ### Today's Schedule
-- Quiz review and announcements [15 minutes]
-- [Instead of code review, a look at the readings and a smattering of topics](#smattering) *[75 minutes]*
+- Announcements/Introductions [15 minutes]
+- [Code review and a look at the readings, plus a smattering of other topics?](#smattering) *[75 minutes]*
 
 **break**
 
@@ -74,7 +68,6 @@ As a result of completing Day 5 of Code 201, students will:
 <a id="smattering"></a>
 ## A smattering of topics
 
-- Motherfu...
 - 'use strict'
 - W3 Schools vs. MDN vs Stack Overflow, etc.
 - Linter setups
