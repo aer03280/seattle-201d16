@@ -1,10 +1,11 @@
 <a id="top"></a>
 # Today's Plan: Week 2, Monday Lecture
 
-- Announcements
-  - Quiz 2 will be published after class. It will be due at 11:59p tomorrow night.
-- Go over student surveys *[15 minutes]*
+- **Announcements**
+  - Quiz 3 will be published after class. It will be due at 11:59p tomorrow night.
+
 - [Code Review](#codereview) *[30 minutes]*
+- Go over student surveys *[15 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[75 minutes]*
 
@@ -15,14 +16,6 @@
 - JS Chapter 3: "Functions, Objects, and Methods" (pp.101-144)
 - JS Chapter 5: "The Document Object Model"
 
----
-
-<a id="codereview"></a>
-### Code Review
-
-- How did the lab go this morning? Let's go over it.
-
-[-top-](#top)
 
 ---
 

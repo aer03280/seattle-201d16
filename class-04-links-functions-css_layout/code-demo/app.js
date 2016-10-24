@@ -75,3 +75,25 @@ function doThis(){
 for (var i = 0; i < 5; i++) {
   doThis();
 }
+
+
+
+
+
+
+
+function userAnswer(answer, correctAnswers, incorrectAnswers) {
+  if (correctAnswers.indexOf(answer.toLowerCase()) !== -1) {
+    console.log('correct');
+  } else if (incorrectAnswers.indexOf(answer.toLowerCase()) !== -1) {
+    console.log('incorrect');
+  } else {
+    console.log('BAD INPUT');
+  }
+}
+
+var answer1 = prompt('Do I like rain?');
+userAnswer(answer1, ['yes', 'y'], ['no', 'n']);
+
+var answer2 = prompt('Am I dead?');
+userAnswer(answer2, ['no', 'n'], ['yes', 'y'])

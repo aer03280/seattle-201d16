@@ -4,6 +4,7 @@
 - Announcements
   - Quiz 2 is due at 11:59p tonight.
 - [Code Review](#codereview) *[30 minutes]*
+- Constructor Function review *As needed*
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*
 

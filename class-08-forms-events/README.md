@@ -1,8 +1,7 @@
 <a id="top"></a>
 # Today's Plan: Week 2, Wednesday Lecture
 
-- Announcements
-  - Quiz 3 will be published after class. It will be due at 11:59p tomorrow night.
+- Review Quiz 3
 - [Code Review](#codereview) *[30 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*

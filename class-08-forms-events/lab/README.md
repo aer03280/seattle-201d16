@@ -1,8 +1,12 @@
-# Assignment Overview: Lab for Class 8
+# Assignment Overview: Lab for Class 8 - Pat's Salmon Cookies
 
 Today you will be adding a form to your existing cookie stand project so that you can add new locations to the table by simply inputting their information with the form.
 
-### Instructions
+**Today's work is done in pairs. These pairs will be announced in class.**
+
+Today's working branch will be `wednesday-forms`.
+
+## Instructions
 
 Here's some of the steps you'll need to take, but not necessarily in this order:
 
@@ -18,4 +22,11 @@ Here's some of the steps you'll need to take, but not necessarily in this order:
 - Anywhere you have repeated chunks of code, maybe you can start to apply some DRY principles. Generally, once some chunk of code is appearing for a 3rd time or so, that's when you want to consider refactoring.
 - When making code more DRY, look for repeated behaviors that act on different pieces of data. Put the behavior into a function that is declared with parameters to receive the unique data, and then replace the repeated code with the function called with the unique data in arguments.
 
-Submit your assignment through Canvas as usual.
+## Submitting Your Assignment
+
+1. When your work is complete and ready for submission, **open and merge a Pull Request** from `wednesday-forms` to `master` ***ON YOUR FORK***.
+2. **Open a pull request** from the `master` branch in your repository (*driver*) to the `master` branch in your partner's (*navigator*) repository.
+3. Submit the link to the above Pull Request [step 2 here, NOT step 1] to Canvas
+4. Add a comment to this Canvas submission with answers to the following questions.
+  - How did this go, overall?
+  - What observations or questions do you have about what you've learned so far?

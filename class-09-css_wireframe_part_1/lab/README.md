@@ -1,4 +1,10 @@
-# Class 9 - Lab Assignment
+# Assignment Overview: Lab for Class 9 - Pat's Salmon Cookies
+
+**Today's work is done in pairs. These pairs will be announced in class.**
+
+Today's working branch will be `thursday-layouts`.
+
+## Instructions
 
 Continue working on the functionality of your **sales.html** page if you do not have it working 100% yet, including the row of totals across the bottom.
 
@@ -10,14 +16,24 @@ Here's your other tasks for today:
 
 - Apply a similar style to the **sales.html** page.
 
-	### Stretch Goals (Not required! Do either one, both, or neither)
+## Stretch Goals (Not required! Do either one, both, or neither)
 
 - Give your input form functionality to update the data for a location that is already in the table. This is going to require some additional pieces, such as:
 	- Some kind of `if` statement to test whether the inputted cookie stand location name matches one that is already in the table (or other mechanism to indicate which location to update)
 	- The new input numbers need to be run through the calculation methods as with the original creation of the instances
 
-- Make a style guide, using [this one that a team Brian was on made for Everlast](http://everlast.com/style-guide) as a model.
+- Make a style guide, using [this one that a team another instructor was on made for Everlast](http://everlast.com/style-guide) as a model.
 
 - Make two additional pages:
 	- Mock up an order form that would be public facing (**store.html**) so that visitors to the website can order salmon cookies and swag. That form would need to receive all of the things you'd expect on an order form: name, address, payment info, products to order, quantities, special instructions, and so on.
 	- A second 'private' page (**order-processing.html**) that shows a list of pending orders and the individual order details. The business owner can then process the orders by clicking a button next to the order that then moves that list item to a 'Filled Orders' list at the bottom of the page.
+
+
+## Submitting Your Assignment
+
+1. When your work is complete and ready for submission, **open and merge a Pull Request** from `thursday-layouts` to `master` ***ON YOUR FORK***.
+2. **Open a pull request** from the `master` branch in your repository (*driver*) to the `master` branch in your partner's (*navigator*) repository.
+3. Submit the link to the above Pull Request [step 2 here, NOT step 1] to Canvas
+4. Add a comment to this Canvas submission with answers to the following questions.
+  - How did this go, overall?
+  - What observations or questions do you have about what you've learned so far?

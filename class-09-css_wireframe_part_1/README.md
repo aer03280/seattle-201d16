@@ -1,15 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Week 2, Thursday Lecture
 
-#### We will start today by reviewing Quiz 4.
-
-#### Quiz 5 will be published this afternoon and is due at 11:59pm tomorrow (Friday) night.
-
 - Announcements
   - It's not to soon to start thinking about final projects. Let's have a conversation about that, because a week from tomorrow you're going to be divided up into teams and starting on your projects.
-  - We need to finish class at 11:50am this morning, and clear all the way out of the room, because there is a meeting in this room that starts at noon.
 
-- [Code Review of Sam's version of the weekly project](#codereview) *[75 minutes]*
+- [Code Review of Nick's version of the weekly project](#codereview) *[75 minutes]*
 
 - [Layout Demo 1](#layout1) *[60 minutes]*
 

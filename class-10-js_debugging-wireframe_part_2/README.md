@@ -10,14 +10,14 @@
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[30 minutes]*
 
-# Readings
+## Readings
 
 - JS Chapter 10: "Error Handling & Debugging"
 
 ---
 
 <a id="codereview"></a>
-### Code Review
+## Code Review
 
 We'll do code reviews to begin class most days
 
@@ -26,7 +26,7 @@ We'll do code reviews to begin class most days
 ---
 
 <a id="readings"></a>
-### Go over the assigned readings
+## Go over the assigned readings
 
 **JS Chapter 10: "Error Handling & Debugging"**
 
@@ -46,7 +46,7 @@ We'll do code reviews to begin class most days
 ---
 
 <a id="code"></a>
-### Live code
+## Live code
 
 This code demo is to help students be ready to complete the first assignment, and also to show off some functionality of the REPL and Chrome Developer Tools.
 

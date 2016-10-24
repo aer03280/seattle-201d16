@@ -1,4 +1,8 @@
-# Pat's Salmon Cookies - Day 2 Lab Assignment
+# Assignment Overview: Lab for Class 7 - Pat's Salmon Cookies
+
+**Today's work is done solo. I want you all to have the basis for your Cookie Store built before pairing up!**
+
+Today's working branch will be `tuesday-tables`.
 
 ## Implement a Constructor Function
 
@@ -46,3 +50,12 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 - As a developer, I will continue to work on design aspects of the public-facing page.
 - As a developer, to facilitate design work, I will build a style guide.
 - As a developer, to demonstrate to my client my ability to add value, I will create a second table that will help Jo manage staffing. Using the basic rubric that single Salmon Cookie Tosser can serve 20 customers per hour, and that each location should have a minimum of two Salmon Cookie Tossers on shift at all times, calculate how many Salmon Cookie Tossers are needed at each location each hour.
+
+## Submitting Your Assignment
+
+1. When your work is complete and ready for submission, **open a Pull Request** from `tuesday-tables` to `master`.
+2. Submit the link to the above Pull Request to Canvas
+3. Add a comment to this Canvas submission with answers to the following questions.
+  - How did this go, overall?
+  - What observations or questions do you have about what you've learned so far?
+4. Once you've submitted your work, complete the merge of `tuesday-tables` to `master`
